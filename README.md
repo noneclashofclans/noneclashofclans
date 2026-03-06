@@ -8,10 +8,7 @@
 ---
 
 ## 🚀 About Me
-
-- 🎯 Targeting **12–15 LPA SDE roles (2026 & 2027)**
-- 🧠 Strong in **DSA, C++ & Competitive Programming**
-- 💻 Exploring **Frontend, Backend Development & Machine Learning**
+- 💻 Exploring **Frontend, Backend Development *
 - 🌱 Currently learning **Node.js, Express, MongoDB, React.js, MySQL**
 - 🏗️ Building resume-grade real-world projects
 
@@ -20,31 +17,26 @@
 ## 👀 Interests
 
 - LeetCode / CodeChef / CP grind
-- Open-source contribution (GSOC focused)
 - Backend systems & APIs
-- Cloud & automation
-
+- Cycling
 ---
 
 ## 💞️ Looking to Collaborate On
 
 - Backend / API based projects  
 - Open-source repositories  
-- DevOps & automation tools  
-- Competitive programming
-
 ---
 
 ## 🛠️ Tech Stack
 
 **Languages:**  
-C++ • JavaScript • SQL
+C++ • JavaScript • MySQL
 
 **Backend:**  
-Node.js • Express • MongoDB
+Node.js • Express • MongoDB • React.js
 
 **Tools & Platforms:**  
-Linux • Git • Docker • GitHub • VS Code
+Socket.io • Git • GitHub • VS Code • Cursor • N8N  
 
 ---
 
