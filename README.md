@@ -7,27 +7,27 @@
 
 ---
 
-## 🚀 About Me
-- 💻 Exploring **Frontend, Backend Development *
-- 🌱 Currently learning **Node.js, Express, MongoDB, React.js, MySQL**
-- 🏗️ Building resume-grade real-world projects
+##  About Me
+- Exploring **Frontend, Backend Development *
+- Currently learning **Node.js, Express, MongoDB, React.js, MySQL**
+- Building resume-grade real-world projects
 
 ---
 
-## 👀 Interests
+##  Interests
 
 - LeetCode / CodeChef / CP grind
 - Backend systems & APIs
 - Cycling
 ---
 
-## 💞️ Looking to Collaborate On
+##  Looking to Collaborate On
 
 - Backend / API based projects  
 - Open-source repositories  
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Languages:**  
 C++ • JavaScript • MySQL
@@ -40,7 +40,7 @@ Socket.io • Git • GitHub • VS Code • Cursor • N8N
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
 - GitHub: https://github.com/noneclashofclans  
 - Email: rishitmohanty3@gmail.com
@@ -48,13 +48,8 @@ Socket.io • Git • GitHub • VS Code • Cursor • N8N
 
 ---
 
-## 😄 Pronouns  
+##  Pronouns  
 He / Him
-
----
-
-## ⚡ Fun Fact  
-I turn coffee into clean code and bugs into learning opportunities ☕
 
 ---
 
