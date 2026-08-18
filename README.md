@@ -81,9 +81,6 @@
 </p>
 
 
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
-
 ## 🔗 Connect With Me
 
 <p align="center">
