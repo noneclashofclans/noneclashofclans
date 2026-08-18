@@ -63,10 +63,6 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=noneclashofclans&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noneclashofclans&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=noneclashofclans&theme=tokyonight&hide_border=true" />
@@ -76,9 +72,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=noneclashofclans&theme=tokyo-night&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=noneclashofclans&theme=tokyonight&column=4&margin-w=10&margin-h=10&no-frame=true" />
-</p>
 
 
 ## 🔗 Connect With Me
@@ -90,9 +83,5 @@
 </p>
 
 <p align="center">Pronouns: He / Him</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2500&pause=500&color=888888&center=true&vCenter=true&width=400&lines=Thanks+for+stopping+by!+⭐" />
-</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
