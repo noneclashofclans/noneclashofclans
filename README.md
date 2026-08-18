@@ -38,7 +38,6 @@
 ## ⚡ Interests
 
 <p align="left">
-  <img src="https://img.shields.io/badge/-LeetCode%20%2F%20CodeChef%20%2F%20CP%20Grind-0e75b6?style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Backend%20Systems%20%26%20APIs-0e75b6?style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Cycling-0e75b6?style=for-the-badge" />
 </p>
@@ -53,7 +52,7 @@
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js,mysql,nodejs,express,mongodb,react,socketio,git,github,vscode,cursor" />
+  <img src="https://skillicons.dev/icons?i=cpp,js,mysql,nodejs,express,mongodb,react,git,github" />
 </p>
 
 <p align="center">
@@ -81,17 +80,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=noneclashofclans&theme=tokyonight&column=4&margin-w=10&margin-h=10&no-frame=true" />
 </p>
 
-## 🌐 3D Contribution Calendar
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/noneclashofclans/noneclashofclans/output/github-contribution-grid-snake.svg" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/noneclashofclans/profile-3d-contrib/output/profile-night-rainbow.svg" />
-</p>
-
-> ℹ️ The snake and 3D calendar both need a one-time GitHub Actions setup — see notes below.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
 
